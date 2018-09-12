@@ -10,6 +10,7 @@ class Client{
 	public:
 		Client(double);
 		~Client();
+		
 		double heureArrivee() const;
 };
 
